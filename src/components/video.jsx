@@ -10,7 +10,7 @@ function Video(){
                 <div className="videoseccion">
                     <div className="overlay"></div>
                     <video playsInline="playsinline" autoPlay="autoplay" muted="muted" loop="loop">
-                        <source src="http://fundacionsanisidromicas.com/video/intro.mp4" type="video/mp4"/>
+                        <source src="https://fundacionsanisidromicas.org/video/intro.mp4" type="video/mp4"/>
                     </video>
 
                     <div className="container h-100">

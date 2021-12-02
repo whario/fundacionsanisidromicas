@@ -11,7 +11,7 @@ function Audio(){
             </Col>
             <Col xs={12} md={{span: 4, offset: 1}}>Entrevista del 28/11/2021 en el programa España Rural de RNE:<br></br><br></br>
             <ReactAudioPlayer
-                src="http://fundacionsanisidromicas.com/video/audio.mp3"
+                src="https://fundacionsanisidromicas.org/video/audio.mp3"
                 controls
             />
             </Col>

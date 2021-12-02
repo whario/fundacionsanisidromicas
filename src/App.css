@@ -78,7 +78,7 @@
 
 @media (pointer: coarse) and (hover: none) {
   .videoseccion {
-    background: url('http://fundacionsanisidromicas.com/video/portada_no_video.jpg') black no-repeat center center scroll;
+    background: url('https://fundacionsanisidromicas.org/video/portada_no_video.jpg') black no-repeat center center scroll;
   }
 
   .videoseccion video {
